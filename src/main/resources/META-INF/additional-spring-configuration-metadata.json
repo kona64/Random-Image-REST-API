@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "apiDirectory.path",
+    "type": "java.lang.String",
+    "description": "A description for 'apiDirectory.path'"
+  },
+  {
+    "name": "apiDirectory.path",
+    "type": "java.lang.String",
+    "description": "A description for 'apiDirectory.path'"
+  },
+  {
+    "name": "bucket.refill",
+    "type": "java.lang.String",
+    "description": "A description for 'bucket.refill'"
+  },
+  {
+    "name": "bucket.refill",
+    "type": "java.lang.String",
+    "description": "A description for 'bucket.refill'"
+  },
+  {
+    "name": "bucket.refill",
+    "type": "java.lang.String",
+    "description": "A description for 'bucket.refill'"
+  },
+  {
+    "name": "bucket.refill",
+    "type": "java.lang.String",
+    "description": "A description for 'bucket.refill'"
+  },
+  {
+    "name": "bucket.refillDurationInSeconds",
+    "type": "java.lang.String",
+    "description": "A description for 'bucket.refillDurationInSeconds'"
+  },
+  {
+    "name": "bucket.capacity",
+    "type": "java.lang.String",
+    "description": "A description for 'bucket.capacity'"
+  },
+  {
+    "name": "message",
+    "type": "java.lang.String",
+    "description": "A description for 'message'"
+  },
+  {
+    "name": "message",
+    "type": "java.lang.String",
+    "description": "A description for 'message'"
+  }
+]}
